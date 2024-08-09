@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "csrf": "ENTER_CSRF_TOKEN",
+            "cookie": "ENTER_COOKIE"
+        },
+        {
+            "csrf": "ENTER_CSRF_TOKEN1",
+            "cookie": "ENTER_COOKIE1"
+        },
+        {
+            "csrf": "ENTER_CSRF_TOKEN2",
+            "cookie": "ENTER_COOKIE2"
+        },
+        {
+            "csrf": "ENTER_CSRF_TOKEN3",
+            "cookie": "ENTER_COOKIE3"
+        }
+    ]
+}
